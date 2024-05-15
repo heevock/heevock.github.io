@@ -1,0 +1,149 @@
+{
+  "node_modules/primeicons/fonts/primeicons.eot": {
+    "file": "assets/primeicons-Dk_eWBPK.eot",
+    "src": "node_modules/primeicons/fonts/primeicons.eot"
+  },
+  "node_modules/primeicons/fonts/primeicons.svg": {
+    "file": "assets/primeicons-BubJZjaf.svg",
+    "src": "node_modules/primeicons/fonts/primeicons.svg"
+  },
+  "node_modules/primeicons/fonts/primeicons.ttf": {
+    "file": "assets/primeicons-NDVQFXzF.ttf",
+    "src": "node_modules/primeicons/fonts/primeicons.ttf"
+  },
+  "node_modules/primeicons/fonts/primeicons.woff": {
+    "file": "assets/primeicons-CCFeZR6K.woff",
+    "src": "node_modules/primeicons/fonts/primeicons.woff"
+  },
+  "node_modules/primeicons/fonts/primeicons.woff2": {
+    "file": "assets/primeicons-DsZ1W7-Z.woff2",
+    "src": "node_modules/primeicons/fonts/primeicons.woff2"
+  },
+  "node_modules/primevue/resources/themes/aura-light-blue/fonts/Inter-italic.var.woff2": {
+    "file": "assets/Inter-italic.var-DhD-tpjY.woff2",
+    "src": "node_modules/primevue/resources/themes/aura-light-blue/fonts/Inter-italic.var.woff2"
+  },
+  "node_modules/primevue/resources/themes/aura-light-blue/fonts/Inter-roman.var.woff2": {
+    "file": "assets/Inter-roman.var-C-r5W2Hj.woff2",
+    "src": "node_modules/primevue/resources/themes/aura-light-blue/fonts/Inter-roman.var.woff2"
+  },
+  "public/img/main/1.png": {
+    "file": "assets/1-CJocgMHX.png",
+    "src": "public/img/main/1.png"
+  },
+  "public/img/main/anker.png": {
+    "file": "assets/anker-DUGpbDn3.png",
+    "src": "public/img/main/anker.png"
+  },
+  "public/img/main/beye.png": {
+    "file": "assets/beye-Ce8YVfrX.png",
+    "src": "public/img/main/beye.png"
+  },
+  "public/img/main/case.png": {
+    "file": "assets/case-BfzIDhnB.png",
+    "src": "public/img/main/case.png"
+  },
+  "public/img/main/clock.png": {
+    "file": "assets/clock-C8lCdxqH.png",
+    "src": "public/img/main/clock.png"
+  },
+  "public/img/main/desk.jpg": {
+    "file": "assets/desk-B2jfpP6m.jpg",
+    "src": "public/img/main/desk.jpg"
+  },
+  "public/img/main/dresser.png": {
+    "file": "assets/dresser-C6zCFO2k.png",
+    "src": "public/img/main/dresser.png"
+  },
+  "public/img/main/face.png": {
+    "file": "assets/face-C80BwwSE.png",
+    "src": "public/img/main/face.png"
+  },
+  "public/img/main/headset-big.png": {
+    "file": "assets/headset-big-Y6ijmUV1.png",
+    "src": "public/img/main/headset-big.png"
+  },
+  "public/img/main/headset-hx.png": {
+    "file": "assets/headset-hx-QazYL_Ip.png",
+    "src": "public/img/main/headset-hx.png"
+  },
+  "public/img/main/liberty.png": {
+    "file": "assets/liberty-iUfMVjXi.png",
+    "src": "public/img/main/liberty.png"
+  },
+  "public/img/main/major.png": {
+    "file": "assets/major-88-4HBEd.png",
+    "src": "public/img/main/major.png"
+  },
+  "public/img/main/mdr.png": {
+    "file": "assets/mdr-B1Ct4tcP.png",
+    "src": "public/img/main/mdr.png"
+  },
+  "public/img/main/noble.png": {
+    "file": "assets/noble-SWt_DQq0.png",
+    "src": "public/img/main/noble.png"
+  },
+  "public/img/main/set.jpg": {
+    "file": "assets/set-BCQLiiSm.jpg",
+    "src": "public/img/main/set.jpg"
+  },
+  "public/img/main/sofa.png": {
+    "file": "assets/sofa-C7o7Fh2G.png",
+    "src": "public/img/main/sofa.png"
+  },
+  "public/img/main/speakers.png": {
+    "file": "assets/speakers-B7Iw1bXX.png",
+    "src": "public/img/main/speakers.png"
+  },
+  "public/img/main/vinyl.png": {
+    "file": "assets/vinyl-DuZMbZbk.png",
+    "src": "public/img/main/vinyl.png"
+  },
+  "public/img/main/white.png": {
+    "file": "assets/white-CYSvtTJV.png",
+    "src": "public/img/main/white.png"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-MQJTgsQb.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DLK2NxQ3.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-XKy-bsZ_.css",
+      "assets/app-MQJTgsQb.css"
+    ],
+    "assets": [
+      "assets/1-CJocgMHX.png",
+      "assets/face-C80BwwSE.png",
+      "assets/set-BCQLiiSm.jpg",
+      "assets/desk-B2jfpP6m.jpg",
+      "assets/major-88-4HBEd.png",
+      "assets/case-BfzIDhnB.png",
+      "assets/clock-C8lCdxqH.png",
+      "assets/sofa-C7o7Fh2G.png",
+      "assets/white-CYSvtTJV.png",
+      "assets/beye-Ce8YVfrX.png",
+      "assets/headset-big-Y6ijmUV1.png",
+      "assets/speakers-B7Iw1bXX.png",
+      "assets/vinyl-DuZMbZbk.png",
+      "assets/dresser-C6zCFO2k.png",
+      "assets/headset-hx-QazYL_Ip.png",
+      "assets/anker-DUGpbDn3.png",
+      "assets/noble-SWt_DQq0.png",
+      "assets/mdr-B1Ct4tcP.png",
+      "assets/liberty-iUfMVjXi.png",
+      "assets/primeicons-Dk_eWBPK.eot",
+      "assets/primeicons-DsZ1W7-Z.woff2",
+      "assets/primeicons-CCFeZR6K.woff",
+      "assets/primeicons-NDVQFXzF.ttf",
+      "assets/primeicons-BubJZjaf.svg",
+      "assets/Inter-roman.var-C-r5W2Hj.woff2",
+      "assets/Inter-italic.var-DhD-tpjY.woff2"
+    ]
+  }
+}
